@@ -1,0 +1,13 @@
+# NetBeans / Java build output
+build/
+dist/
+
+# compiled Java bytecode
+*.class
+
+# NetBeans private project files
+nbproject/private/
+
+# OS junk
+.DS_Store
+Thumbs.db
